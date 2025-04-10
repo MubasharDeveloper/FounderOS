@@ -39078,21 +39078,21 @@ figure {
 
 @media screen and (max-width: 991px) {
   body {
-      --green-yellow:#d9fc67;
-      --white: white;
-      --black: #161616;
-      --dark-grey: #1a1a1a;
-      --grey: #838383;
-      --light-grey: #cbcbcb;
-      --placeholder-gray: #353535;
-      --alt-light-grey: #b7b7b7;
-      --category-blue: #84daff;
-      --category-green: #88c966;
-      --category-yellow: #fdef51;
-      --hover-black: #1d1d1d;
-      --gray-box-border: #2e2e2e;
-      --grey-bg: #131313;
-      --padding-x: 1.5rem
+      /* --green-yellow:#d9fc67; */
+      /* --white: white; */
+      /* --black: #161616; */
+      /* --dark-grey: #1a1a1a; */
+      /* --grey: #838383; */
+      /* --light-grey: #cbcbcb; */
+      /* --placeholder-gray: #353535; */
+      /* --alt-light-grey: #b7b7b7; */
+      /* --category-blue: #84daff; */
+      /* --category-green: #88c966; */
+      /* --category-yellow: #fdef51; */
+      /* --hover-black: #1d1d1d; */
+      /* --gray-box-border: #2e2e2e; */
+      /* --grey-bg: #131313; */
+      /* --padding-x: 1.5rem; */
   }
 
   h1 {
